@@ -2,11 +2,20 @@
 layout: default
 ---
 
+Welcome to the home page of Erik Loualiche.
+
+[Vita](./another-page.html).
+
+
+* * *
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
 [Link to File](./files/keer.jpg)
+
+[Link to File](#Header 1)
 
 There should be whitespace between paragraphs.
 
