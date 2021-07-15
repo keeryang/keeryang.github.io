@@ -4,4 +4,5 @@ description: This is Keer's website ???
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-is_project_page: false
+github:
+  is_project_page: false
