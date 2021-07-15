@@ -13,7 +13,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to File](./files/keer.jpg)
 
-[Link to File](#Header 1)
+[Link to File](# Header 1)
 
 There should be whitespace between paragraphs.
 
