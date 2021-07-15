@@ -2,10 +2,13 @@
 layout: default
 ---
 
-[Vita](./another-page.html).
+# Header1
+# Header2
+
+[[Link-name1|#Header1]]
+[Link-name2](#Header2)
 
 
-* * *
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
