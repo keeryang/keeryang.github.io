@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Welcome to the home page of Erik Loualiche.
-
 [Vita](./another-page.html).
 
 
