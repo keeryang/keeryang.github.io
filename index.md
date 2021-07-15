@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-[Link to File](./file/keer.jpg)
+[Link to File](./files/keer.jpg)
 
 There should be whitespace between paragraphs.
 
