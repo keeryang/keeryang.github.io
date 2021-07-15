@@ -1,6 +1,6 @@
 title: Keer Yang
 logo: /files/pic.JPG
 description: This is Keer's website
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
