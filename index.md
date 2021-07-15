@@ -4,7 +4,13 @@ Hi! I am Keer Yang, a PhD candidate in Finance from University of Minnesota, Car
 
 My research interests include FinTech and Machine Learning in Finnace. 
 
-### Job Market Paper
+## Job Market Paper
 [Trust As an Entry Barrier: Evidence from FinTech Adoption](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3761468)
 
-### Working Papers
+## Working Papers
+
+## Discussions
+
+
+
+
