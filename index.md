@@ -48,7 +48,7 @@ Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop o
     Finance Fundamentals
     
 *   TA for Machine Learning in Finance <br/>
-    I have been the TA for the master of finance class Machine Learning in Finance taught by Professor [Murray Z. Frank](https://mzfrank.github.io/myweb/). I gave TA sessions in basic python. You can find some materials here. 
+    I have been the TA for the master of finance class Machine Learning in Finance taught by Professor [Murray Z. Frank](https://mzfrank.github.io/myweb/). I gave TA sessions in basic python. You can find some teaching materials from Professor Frank's [website](https://mzfrank.github.io/myweb/) and here. 
 
 
 <br />
