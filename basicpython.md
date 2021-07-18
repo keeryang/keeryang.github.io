@@ -2,4 +2,4 @@
 layout: default
 ---
 
-## Welcome to another page
+## Some lectures notes in python and machine learning in finance.
