@@ -2,4 +2,4 @@
 layout: default
 ---
 
-## Some lectures notes in python and machine learning in finance.
+## Some lectures notes in python and in machine learning in finance.
