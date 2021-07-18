@@ -57,7 +57,8 @@ Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop o
 # Discussions 
 
 
-*   
-
+*   2021 China International Conference in Finance: Big Data Analyses with No Digital Footprints Available – Evidence from Cyber-Telecom Fraud by Liu, Liu, Ruan, Yang, and Zhang
+*   2021 Behavioural Finance Working Group conference: Psychological and Social Motivations in Microfinance Contracts: Theory and Evidence by Dhami, Arshad, and al-Nowaihi
+*   2020 Financial Management Association: FinTech and the Supply of Credit to Small Business by Mark Johnson
 
 
