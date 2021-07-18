@@ -14,6 +14,8 @@ You could contact me at yang5427@umn.edu
 
 # Research
 
+## Working Papers
+
 ### [1. Trust as an Entry Barrier: Evidence from FinTech Adoption (Job Market Paper)](./papers/TrustFinTech)
 *   Presented at CEPR European Conference on Household Finance 2020, China Fintech Research Conference 2021, 4th Annual Dauphine Finance Ph.D. Workshop, BFWG Conference 2021, Cambridge Centre for Alternative Finance Sixth Annual Conference 2021, 2021 FMA Annual Meeting (scheduled)
 
@@ -27,7 +29,7 @@ Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop o
 
 ### 4. Financially Underserved But High Quality? Real Economy Effects of FinTech Small Business Lending. with [Celine Yue FEI](https://www.celinefei.com/)
 
-# Working in Progress
+## Working in Progress
 
 ### 1. Bankruptcy law provisions. with [Jacelly Cespedes](https://sites.google.com/site/jacellycespedes/) and [Richard T. Thakor](https://sites.google.com/site/richardthakor/)
 
