@@ -12,6 +12,7 @@ Primary research interests: FinTech, Machine Learning in Finance, Empirical Corp
 
 You could contact me at yang5427@umn.edu
 
+---
 
 # Research
 
