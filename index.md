@@ -10,7 +10,15 @@ I am a PhD Candidate in Finance from Carlson School of Management, University of
 
 Primary research interests: FinTech, Machine Learning in Finance, Empirical Corporate Finance, Financial Intermediaries
 
-You could contact me at <yang5427@umn.edu>
+## Contact Information
+
+Address:<br/>
+Department of Finance<br/>
+3-122  Carlson School of Management<br/>
+321 19th Ave South<br/>
+Minneapolis, MN, 55455
+
+Email: <yang5427@umn.edu>
 
 <br />
 
