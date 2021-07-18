@@ -10,140 +10,27 @@ I am a PhD Candidate in Finance from Carlson School of Management, University of
 
 Primary research interests: FinTech, Machine Learning in Finance, Empirical Corporate Finance, Financial Intermediaries
 
+You could contact me at yang5427@umn.edu
+
 # Research
 
 ### [1. Trust as an Entry Barrier: Evidence from FinTech Adoption (Job Market Paper)](./papers/TrustFinTech)
 *   Presented at CEPR European Conference on Household Finance 2020, China Fintech Research Conference 2021, 4th Annual Dauphine Finance Ph.D. Workshop, BFWG Conference 2021, Cambridge Centre for Alternative Finance Sixth Annual Conference 2021, 2021 FMA Annual Meeting (scheduled)
 
-### [Trust as an Entry Barrier: Evidence from FinTech Adoption (Job Market Paper)](./papers/TrustFinTech)
-*  University of Iowa, 2019  China International Conference in Finance, 2018 London Business School Summer Finance Symposium, Minnesota Corporate Finance
-Conference, CSOM Summer Applied Economics Workshop, and the 2018 Workshop on Artificial Intelligence
-and Machine Learning in Financial Services at Rensselaer. 
-### [Trust as an Entry Barrier: Evidence from FinTech Adoption (Job Market Paper)](./papers/TrustFinTech)
+### 2. Which Firms Have More Predictable Profits? A Method and Applications with [Murray Z. Frank](https://mzfrank.github.io/myweb/) (available soon)
+
+### [3. Does Finance Flow to High Productivity Firms?](./papers/productivity) with [Murray Z. Frank](https://mzfrank.github.io/myweb/)
+
+*   Presented at University of Iowa, 2019  China International Conference in Finance, 2018 London Business School Summer Finance Symposium, 2018 Minnesota Corporate Finance
+Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop on Artificial Intelligence and Machine Learning in Financial Services at Rensselaer. 
+
+
+### 4. Financially Underserved But High Quality? Real Economy Effects of FinTech Small Business Lending. with [Celine Yue FEI](https://www.celinefei.com/)
+
+# Working in Progress
+
+### 1. Bankruptcy law provisions. with [Jacelly Cespedes](https://sites.google.com/site/jacellycespedes/) and [Richard T. Thakor](https://sites.google.com/site/richardthakor/)
 
 
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-[Link to another section](#header10).
-
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-
-# Header10
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
