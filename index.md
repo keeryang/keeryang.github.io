@@ -30,7 +30,6 @@ Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop o
 
 ### 4. Financially Underserved But High Quality? Real Economy Effects of FinTech Small Business Lending. with [Celine Yue FEI](https://www.celinefei.com/)
 
-
 ## Working in Progress
 
 ### 5. Bankruptcy law provisions. with [Jacelly Cespedes](https://sites.google.com/site/jacellycespedes/) and [Richard T. Thakor](https://sites.google.com/site/richardthakor/)
