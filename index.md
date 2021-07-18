@@ -29,7 +29,7 @@ Email: <yang5427@umn.edu>
 ### [1. Trust as an Entry Barrier: Evidence from FinTech Adoption (Job Market Paper)](./papers/TrustFinTech_2021June.pdf)
 *   Presented at CEPR European Conference on Household Finance 2020, China Fintech Research Conference 2021, 4th Annual Dauphine Finance Ph.D. Workshop, BFWG Conference 2021, Cambridge Centre for Alternative Finance Sixth Annual Conference 2021, 2021 FMA Annual Meeting (scheduled)
 
-### 2. Which Firms Have More Predictable Profits? A Method and Applications with [Murray Z. Frank](https://mzfrank.github.io/myweb/) (available soon)
+### 2. Which Firms Have More Predictable Profits? A Method and Applications with [Murray Z. Frank](https://mzfrank.github.io/myweb/) 
 
 ### [3. Does Finance Flow to High Productivity Firms?](./papers/Productivity2019May07.pdf) with [Murray Z. Frank](https://mzfrank.github.io/myweb/)
 
