@@ -12,6 +12,7 @@ Primary research interests: FinTech, Machine Learning in Finance, Empirical Corp
 
 You could contact me at yang5427@umn.edu
 
+
 # Research
 
 ## Working Papers
@@ -28,6 +29,7 @@ Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop o
 
 
 ### 4. Financially Underserved But High Quality? Real Economy Effects of FinTech Small Business Lending. with [Celine Yue FEI](https://www.celinefei.com/)
+
 
 ## Working in Progress
 
