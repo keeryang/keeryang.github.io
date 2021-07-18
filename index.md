@@ -28,7 +28,7 @@ You could contact me at yang5427@umn.edu
 Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop on Artificial Intelligence and Machine Learning in Financial Services at Rensselaer. 
 
 
-### 4. Financially Underserved But High Quality? Real Economy Effects of FinTech Small Business Lending. with [Celine Yue FEI](https://www.celinefei.com/)
+### 4. Financially Underserved But High Quality? Real Economy Effects of FinTech Small Business Lending. with [Celine Yue Fei](https://www.celinefei.com/)
 
 ## Working in Progress
 
