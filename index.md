@@ -12,11 +12,13 @@ Primary research interests: FinTech, Machine Learning in Finance, Empirical Corp
 
 # Research
 
-### [1.Trust as an Entry Barrier: Evidence from FinTech Adoption (Job Market Paper)](./papers/TrustFinTech)
+### [1. Trust as an Entry Barrier: Evidence from FinTech Adoption (Job Market Paper)](./papers/TrustFinTech)
 *   Presented at CEPR European Conference on Household Finance 2020, China Fintech Research Conference 2021, 4th Annual Dauphine Finance Ph.D. Workshop, BFWG Conference 2021, Cambridge Centre for Alternative Finance Sixth Annual Conference 2021, 2021 FMA Annual Meeting (scheduled)
 
 ### [Trust as an Entry Barrier: Evidence from FinTech Adoption (Job Market Paper)](./papers/TrustFinTech)
-
+*  University of Iowa, 2019  China International Conference in Finance, 2018 London Business School Summer Finance Symposium, Minnesota Corporate Finance
+Conference, CSOM Summer Applied Economics Workshop, and the 2018 Workshop on Artificial Intelligence
+and Machine Learning in Financial Services at Rensselaer. 
 ### [Trust as an Entry Barrier: Evidence from FinTech Adoption (Job Market Paper)](./papers/TrustFinTech)
 
 
