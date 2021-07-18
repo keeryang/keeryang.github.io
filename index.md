@@ -12,6 +12,8 @@ Primary research interests: FinTech, Machine Learning in Finance, Empirical Corp
 
 You could contact me at yang5427@umn.edu
 
+<br />
+
 ---
 
 # Research
@@ -38,12 +40,17 @@ Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop o
 
 <br />
 
+---
+
 # Teaching Experience 
 
 <br />
 
+---
+
 # Discussions 
 
+<br />
 
 
 
