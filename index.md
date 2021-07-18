@@ -44,6 +44,14 @@ Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop o
 
 # Teaching Experience 
 
+Instructor, University of Minnesota (2018-2019)
+
+Finance Fundamentals, 3 sections with +120 students
+
+TA
+
+Other
+
 <br />
 
 ---
