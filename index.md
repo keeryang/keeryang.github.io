@@ -53,10 +53,8 @@ Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop o
 *   Instructor, University of Minnesota (2018-2019) <br/>
     Finance Fundamentals
     
-*   TA for Machine Learning in Finance <br/>
-    I have been the TA for Machine Learning in Finance class taught by Professor [Murray Z. Frank](https://mzfrank.github.io/myweb/) at UMN. I taught some basic python in finance in the TA session. You can find some teaching material from Professor Frank's [website](https://mzfrank.github.io/myweb/) and from [here](./basicpython.html). 
-
-
+*   TA for [Machine Learning in Finance]((./basicpython.html) <br/>
+    
 <br />
 
 ---
