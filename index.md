@@ -39,7 +39,6 @@ Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop o
 
 
 ### 4. Can Fintech Lenders Fill the Financing Gap for Minority-Led Small Businesses. with [Celine Yue Fei](https://www.celinefei.com/)
-*   Presented at 2021-AEF/ABF&E (scheduled)
 <br />
 
 ## Working in Progress
