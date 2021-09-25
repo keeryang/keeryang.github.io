@@ -39,7 +39,10 @@ Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop o
 
 
 ### 4.Can Fintech Benefit Minority-Owned Small Businesses? Evidence from the Paycheck Protection Program. with [Celine Yue Fei](https://www.celinefei.com/)
-<br /> Draft Available Upon Request. Presented at 2021 ABF&E, 2nd Annual Boca Corporate Finance and Governance Conference (scheduled).
+*   Draft Available Upon Request. Presented at 2021 ABF&E, 2nd Annual Boca Corporate Finance and Governance Conference (scheduled).
+
+
+<br /> 
 
 ## Working in Progress
 
