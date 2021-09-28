@@ -46,7 +46,7 @@ Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop o
 
 ## Working in Progress
 
-### 5. Bankruptcy law provisions. with [Jacelly Cespedes](https://sites.google.com/site/jacellycespedes/) and [Richard T. Thakor](https://sites.google.com/site/richardthakor/)
+### 5. The Ex Ante Effect of Bankruptcy Law. with [Jacelly Cespedes](https://sites.google.com/site/jacellycespedes/) and [Richard T. Thakor](https://sites.google.com/site/richardthakor/)
 
 <br />
 
