@@ -34,7 +34,7 @@ Email: <yang5427@umn.edu>
 
 ### [2. Predicting Firm Profits: From Fama-MacBeth to Gradient Boosting](./papers/Profits_2021Aug28.pdf) with [Murray Z. Frank](https://mzfrank.github.io/myweb/) 
 
-### [3. Does Finance Flow to High Productivity Firms?](./papers/Productivity2019May07.pdf) with [Murray Z. Frank](https://mzfrank.github.io/myweb/)
+### [3. Does Finance Flow to High Productivity Firms?](./papers/Productivity2020.pdf) with [Murray Z. Frank](https://mzfrank.github.io/myweb/)
 *   Presented at University of Iowa [(my presentation slides)](./papers/FrankYang2019_Iowa.pdf), 2019  China International Conference in Finance, 2018 London Business School Summer Finance Symposium, 2018 Minnesota Corporate Finance
 Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop on Artificial Intelligence and Machine Learning in Financial Services at Rensselaer. 
 
