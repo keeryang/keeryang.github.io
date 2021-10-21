@@ -28,7 +28,7 @@ Email: <yang5427@umn.edu>
 
 ## Working Papers
 
-### [1. Trust as an Entry Barrier: Evidence from FinTech Adoption (Job Market Paper)](./papers/TrustFinTech_2021Oct01.pdf)
+### [1. Trust as an Entry Barrier: Evidence from FinTech Adoption (Job Market Paper)](./papers/TrustFinTech_2021Oct14.pdf)
 *   2021 Financial Management Association Best Paper Award in FinTech Semifinalist 
 *   Presented at CEPR European Conference on Household Finance 2020, China Fintech Research Conference 2021, 4th Annual Dauphine Finance Ph.D. Workshop, BFWG Conference 2021, Cambridge Centre for Alternative Finance Sixth Annual Conference 2021, 2nd PhD Student Symposium at UT Austin, 2021 FMA Annual Meeting (scheduled)
 
