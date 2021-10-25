@@ -26,9 +26,10 @@ Email: <yang5427@umn.edu>
 
 # Research
 
+
 ## Working Papers
 
-### _FinTech_
+- ### FinTech
 
 ### [1. Trust as an Entry Barrier: Evidence from FinTech Adoption (Job Market Paper)](./papers/TrustFinTech_2021Oct14.pdf)
 *   2021 Financial Management Association Best Paper Award in FinTech Semifinalist 
@@ -37,7 +38,7 @@ Email: <yang5427@umn.edu>
 ### [2.Fintech and Racial Barriers in Small Business Lending](./papers/FinTechRacialBarriers.pdf) with [Celine Yue Fei](https://www.celinefei.com/)
 *   Draft Available Upon Request. Presented at 2021 ABF&E, 2nd Annual Boca Corporate Finance and Governance Conference (scheduled).
 
-### _Machine Learning_
+- ### Machine Learning
 
 ### [3. Predicting Firm Profits: From Fama-MacBeth to Gradient Boosting](./papers/Profits_2021Aug28.pdf) with [Murray Z. Frank](https://mzfrank.github.io/myweb/) 
 
