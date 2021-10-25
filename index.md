@@ -36,7 +36,7 @@ Email: <yang5427@umn.edu>
 *   Presented at CEPR European Conference on Household Finance 2020, China Fintech Research Conference 2021, 4th Annual Dauphine Finance Ph.D. Workshop, BFWG Conference 2021, Cambridge Centre for Alternative Finance Sixth Annual Conference 2021, 2nd PhD Student Symposium at UT Austin, 2021 FMA Annual Meeting 
 
 ### [2. FinTech and Racial Barriers in Small Business Lending](./papers/FinTechRacialBarriers.pdf) with [Celine Yue Fei](https://www.celinefei.com/)
-*   Draft Available Upon Request. Presented at 2021 ABF&E, 2nd Annual Boca Corporate Finance and Governance Conference (scheduled).
+*   Presented at 2021 ABF&E, 2nd Annual Boca Corporate Finance and Governance Conference (scheduled).
 
 ### Machine Learning
 
