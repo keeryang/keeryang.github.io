@@ -31,18 +31,18 @@ Email: <yang5427@umn.edu>
 
 ### FinTech
 
-### [1. Trust as an Entry Barrier: Evidence from FinTech Adoption (Job Market Paper)](./papers/TrustFinTech_2021Oct14.pdf)
+### [1. Trust as an Entry Barrier: Evidence from FinTech Adoption (Job Market Paper)](./papers/JMP_TrustFinTech_KeerYang_2021Nov03.pdf)
 *   2021 Financial Management Association Best Paper Award in FinTech Semifinalist 
 *   Presented at CEPR European Conference on Household Finance 2020, China Fintech Research Conference 2021, 4th Annual Dauphine Finance Ph.D. Workshop, BFWG Conference 2021, Cambridge Centre for Alternative Finance Sixth Annual Conference 2021, 2nd PhD Student Symposium at UT Austin, 2021 FMA Annual Meeting 
 
-### [2. FinTech and Racial Barriers in Small Business Lending](./papers/FinTechRacialBarriers2021Oct30.pdf) with [Celine Yue Fei](https://www.celinefei.com/)
+### [2. FinTech and Racial Barriers in Small Business Lending](./papers/WP_FinTechRacialBarriers_KeerYang_2021Nov01.pdf) with [Celine Yue Fei](https://www.celinefei.com/)
 *   Presented at 2021 ABF&E, 2nd Annual Boca Corporate Finance and Governance Conference (scheduled), 2021 NBER Entrepreneurship Working Group Meeting (scheduled)
 
 ### Machine Learning
 
-### [3. Predicting Firm Profits: From Fama-MacBeth to Gradient Boosting](./papers/Profits_2021Aug28.pdf) with [Murray Z. Frank](https://mzfrank.github.io/myweb/) 
+### [3. Predicting Firm Profits: From Fama-MacBeth to Gradient Boosting](./papers/WP_MachineLearningProfit_KeerYang_2021Nov01.pdf) with [Murray Z. Frank](https://mzfrank.github.io/myweb/) 
 
-### [4. Does Finance Flow to High Productivity Firms?](./papers/Productivity2020.pdf) with [Murray Z. Frank](https://mzfrank.github.io/myweb/)
+### [4. Does Finance Flow to High Productivity Firms?](./papers/WP_DoesFinaFlow_KeerYang_2021Nov01.pdf) with [Murray Z. Frank](https://mzfrank.github.io/myweb/)
 *   Presented at University of Iowa [(my presentation slides)](./papers/FrankYang2019_Iowa.pdf), 2019  China International Conference in Finance, 2018 London Business School Summer Finance Symposium, 2018 Minnesota Corporate Finance
 Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop on Artificial Intelligence and Machine Learning in Financial Services at Rensselaer. 
 
