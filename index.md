@@ -8,7 +8,7 @@ layout: default
 
 I am a PhD Candidate in Finance from Carlson School of Management, University of Minnesota.
 
-I will be on the job market in 2021-2022.
+I will join UC Davis Graduate School of Management as an Assistant Professor of Finance in Fall 2022. 
 
 Primary research interests: FinTech, Machine Learning in Finance, Empirical Corporate Finance, Financial Intermediaries
 
