@@ -37,7 +37,7 @@ Email: <yang5427@umn.edu>
 
 ### [2. FinTech and Racial Barriers in Small Business Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949148) with [Celine Yue Fei](https://www.celinefei.com/)
 *   Presented at 2021 NBER Entrepreneurship Working Group Meeting
-*  Coverage: FinReg Blog(https://sites.law.duke.edu/thefinregblog/2022/03/16/fintech-and-racial-barriers-in-small-business-lending/)
+*   Coverage: [FinReg Blog](https://sites.law.duke.edu/thefinregblog/2022/03/16/fintech-and-racial-barriers-in-small-business-lending/)
 
 ### Machine Learning
 
