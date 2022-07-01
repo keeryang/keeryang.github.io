@@ -6,9 +6,7 @@ layout: default
 
 # Welcome! 
 
-I am a PhD Candidate in Finance from Carlson School of Management, University of Minnesota.
-
-I will join UC Davis Graduate School of Management as an Assistant Professor of Finance in Fall 2022. 
+I am an Assistant Professor of Finance from Graduate School of Management, University of California, Davis.
 
 Primary research interests: FinTech, Machine Learning in Finance, Empirical Corporate Finance, Financial Intermediaries
 
@@ -31,7 +29,7 @@ Email: <yang5427@umn.edu>
 
 ### FinTech
 
-### [1. Trust as an Entry Barrier: Evidence from FinTech Adoption (Job Market Paper)](./papers/JMP_TrustFinTech_KeerYang_2021Nov03.pdf)
+### [1. Trust as an Entry Barrier: Evidence from FinTech Adoption](./papers/JMP_TrustFinTech_KeerYang_2021Nov03.pdf)
 *   2021 Financial Management Association Best Paper Award in FinTech Semifinalist 
 *   Presented at CEPR European Conference on Household Finance 2020, China Fintech Research Conference 2021, 4th Annual Dauphine Finance Ph.D. Workshop, BFWG Conference 2021, Cambridge Centre for Alternative Finance Sixth Annual Conference 2021, 2nd PhD Student Symposium at UT Austin, 2021 FMA Annual Meeting, 2022 AFA Poster
 
