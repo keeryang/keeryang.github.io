@@ -12,13 +12,7 @@ Primary research interests: FinTech, Machine Learning in Finance, Empirical Corp
 
 ### Contact Information
 
-Address:<br/>
-Department of Finance<br/>
-3-122  Carlson School of Management<br/>
-321 19th Ave South<br/>
-Minneapolis, MN, 55455
-
-Email: <yang5427@umn.edu>
+Email: <kkeyang@ucdavis.edu>
 
 ---
 
