@@ -46,16 +46,6 @@ Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop o
 
 <br />
 
----
-
-# Teaching Experience 
-
-*   Instructor, University of Minnesota (2018-2019) <br/>
-    Finance Fundamentals
-    
-*   TA for [Machine Learning in Finance](./basicpython.html) <br/>
-    
-<br />
 
 ---
 
