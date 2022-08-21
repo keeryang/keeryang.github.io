@@ -31,7 +31,7 @@ Email: <kkeyang@ucdavis.edu>
 *   Presented at University of Iowa, 2019  China International Conference in Finance, 2018 London Business School Summer Finance Symposium, 2018 Minnesota Corporate Finance
 Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop on Artificial Intelligence and Machine Learning in Financial Services at Rensselaer. 
 
-### [4. FinTech and Racial Barriers in Small Business Lending] with [Celine Yue Fei](https://www.celinefei.com/)
+### 4. FinTech and Racial Barriers in Small Business Lending with [Celine Yue Fei](https://www.celinefei.com/)
 *   Presented at 2021 NBER Entrepreneurship Working Group Meeting
 *   Coverage: [FinReg Blog](https://sites.law.duke.edu/thefinregblog/2022/03/16/fintech-and-racial-barriers-in-small-business-lending/)
 
