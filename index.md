@@ -60,11 +60,11 @@ Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop o
 ---
 
 # Discussions 
-*   [Impact Investing and Venture Capital Industry: Experimental Evidence]<br/>
+*   [Impact Investing and Venture Capital Industry: Experimental Evidence](./discussions/Discussion_Zhang_ESG_and_VC_byKeerYANG.pdf)<br/>
     by Ye Zhang <br/>
     2022 Western Finance Association
     
-*   [Trust and Contracts: Empirical Evidence]<br/>
+*   [Trust and Contracts: Empirical Evidence](./discussions/Discussion_DAcuntoetal_TrustContracts_byKeerYANG.pdf)<br/>
     by D’Acunto, Xie, and Yao <br/>
     2022 China Fintech Research Conference
 
