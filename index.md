@@ -32,7 +32,6 @@ Email: <kkeyang@ucdavis.edu>
 Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop on Artificial Intelligence and Machine Learning in Financial Services at Rensselaer. 
 
 ### 4. FinTech and Racial Barriers in Small Business Lending with Celine Fei
-*   Presented at 2021 NBER Entrepreneurship Working Group Meeting
 *   Coverage: [FinReg Blog](https://sites.law.duke.edu/thefinregblog/2022/03/16/fintech-and-racial-barriers-in-small-business-lending/)
 
 
