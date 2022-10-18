@@ -14,11 +14,6 @@ Primary research interests: FinTech, Machine Learning in Finance, Empirical Corp
 
 Email: <kkeyang@ucdavis.edu>
 
-Address: 
-540 Alumni Ln 
-
-Davis, CA 95616         
-
 ---
 
 # Research
