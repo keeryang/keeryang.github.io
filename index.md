@@ -21,27 +21,27 @@ Email: <kkeyang@ucdavis.edu>
 
 ## Working Papers
 
-### [1. Trust as an Entry Barrier: Evidence from FinTech Adoption](./papers/JMP_TrustFinTech_KeerYang_2021Nov03.pdf)
+### [1. Trust as an Entry Barrier: Evidence from FinTech Adoption](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3761468)
 *   2021 Financial Management Association Best Paper Award in FinTech Semifinalist 
 *   Presented at CEPR European Conference on Household Finance 2020, China Fintech Research Conference 2021, 4th Annual Dauphine Finance Ph.D. Workshop, BFWG Conference 2021, Cambridge Centre for Alternative Finance Sixth Annual Conference 2021, 2nd PhD Student Symposium at UT Austin, 2021 FMA Annual Meeting, 2022 AFA Poster
 
-### [2. Predicting Firm Profits: From Fama-MacBeth to Gradient Boosting](./papers/WP_MachineLearningProfit_KeerYang_2021Nov01.pdf) with [Murray Z. Frank](https://mzfrank.github.io/myweb/) 
+### [2. Predicting Firm Profits: From Fama-MacBeth to Gradient Boosting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3919194) with [Murray Z. Frank](https://mzfrank.github.io/myweb/) 
 
-### [3. Does Finance Flow to High Productivity Firms?](./papers/WP_DoesFinaFlow_KeerYang_2021Nov01.pdf) with [Murray Z. Frank](https://mzfrank.github.io/myweb/)
+### [3. Does Finance Flow to High Productivity Firms?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295140) with [Murray Z. Frank](https://mzfrank.github.io/myweb/)
 *   Presented at University of Iowa, 2019  China International Conference in Finance, 2018 London Business School Summer Finance Symposium, 2018 Minnesota Corporate Finance
 Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop on Artificial Intelligence and Machine Learning in Financial Services at Rensselaer. 
 
-### 4. FinTech and Racial Barriers in Small Business Lending with Celine Fei
-*   Coverage: [FinReg Blog](https://sites.law.duke.edu/thefinregblog/2022/03/16/fintech-and-racial-barriers-in-small-business-lending/)
-
-
+### [4. The Ex Ante Effect of Bankruptcy Law: Evidence from Chapter 12](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4236600) with [Jacelly Cespedes](https://sites.google.com/site/jacellycespedes/) and [Richard T. Thakor](https://sites.google.com/site/richardthakor/)
 
 
 <br /> 
 
 ## Working in Progress
+### 5. FinTech and Racial Barriers in Small Business Lending with Celine Fei
+*   Coverage: [FinReg Blog](https://sites.law.duke.edu/thefinregblog/2022/03/16/fintech-and-racial-barriers-in-small-business-lending/)
 
-### 5. The Ex Ante Effect of Bankruptcy Law. with [Jacelly Cespedes](https://sites.google.com/site/jacellycespedes/) and [Richard T. Thakor](https://sites.google.com/site/richardthakor/)
+### 6. FinTech and Racial Barriers in Small Business Lending with Tracy Wang and Ruoxi Tian
+
 
 <br />
 
