@@ -37,7 +37,7 @@ Conference, 2018 CSOM Summer Applied Economics Workshop, and the 2018 Workshop o
 <br /> 
 
 ## Working in Progress
-### 5. FinTech and Racial Barriers in Small Business Lending with [Tracy Wang](https://tracyyuewang.wordpress.com/) and Ruoxi Tian
+### 5. The George Floyd Event and Corporate Attention to DEI [Tracy Wang](https://tracyyuewang.wordpress.com/) and Ruoxi Tian
 
 ### 6. FinTech and Racial Barriers in Small Business Lending with Celine Fei
 *   Coverage: [FinReg Blog](https://sites.law.duke.edu/thefinregblog/2022/03/16/fintech-and-racial-barriers-in-small-business-lending/)
