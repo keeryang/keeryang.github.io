@@ -24,7 +24,7 @@ Email: <kkeyang@ucdavis.edu>
 ### [1. Trust as an Entry Barrier: Evidence from FinTech Adoption](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3761468)
 *   Revise and Resubmit, Journal of Financial Economics
 *   Presented at CEPR European Conference on Household Finance 2020, China Fintech Research Conference 2021, 4th Annual Dauphine Finance Ph.D. Workshop, BFWG Conference 2021, Cambridge Centre for Alternative Finance Sixth Annual Conference 2021, 2nd PhD Student Symposium at UT Austin, 2021 FMA Annual Meeting, 2022 AFA Poster, Syracuse, OSU, SMU, Santa Clara, CUHK, NYU Shanghai, UC Davis, SAIF, AFR International Conference, Nanjing University, Macquarie Business School
-*   2021 Financial Management Association Best Paper Award in FinTech Semifinalist 
+*   2021 Financial Management Association Best Paper Award Semifinalist 
 
 ### [2. Behavioral Machine Learning? Computer Predictions of Corporate Earnings also Overreact]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3919194](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4395903)) with [Murray Z. Frank](https://mzfrank.github.io/myweb/) and Jing Gao
 *   Coverage: [Financial Times](https://www.ft.com/content/fc193b67-7469-4de8-a129-edfcdf4143e0)
@@ -42,9 +42,12 @@ Email: <kkeyang@ucdavis.edu>
 <br /> 
 
 ## Working in Progress
-### 6. The George Floyd Event and Corporate Attention to DEI [Tracy Wang](https://tracyyuewang.wordpress.com/) and Ruoxi Tian
 
-### [7. Predicting Firm Profits: From Fama-MacBeth to Gradient Boosting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3919194) with [Murray Z. Frank](https://mzfrank.github.io/myweb/) 
+### [6. Predicting Firm Profits: From Fama-MacBeth to Gradient Boosting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3919194) with [Murray Z. Frank](https://mzfrank.github.io/myweb/) 
+*   2022 Financial Management Association Best Paper Award Semifinalist
+  
+### 7. The George Floyd Event and Corporate Attention to DEI [Tracy Wang](https://tracyyuewang.wordpress.com/) and Ruoxi Tian
+
 
 ### 8. FinTech and Racial Barriers in Small Business Lending 
 *   Coverage: [FinReg Blog](https://sites.law.duke.edu/thefinregblog/2022/03/16/fintech-and-racial-barriers-in-small-business-lending/)
