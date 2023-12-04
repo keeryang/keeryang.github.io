@@ -44,9 +44,7 @@ Email: <kkeyang@ucdavis.edu>
 ## Working in Progress
 
 ### [6. Predicting Firm Profits: From Fama-MacBeth to Gradient Boosting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3919194) with [Murray Z. Frank](https://mzfrank.github.io/myweb/) 
-*   Presented at 2022 FMA
-*   2022 Financial Management Association Best Paper Award Semifinalist
-  
+
 ### 7. The George Floyd Event and Corporate Attention to DEI [Tracy Wang](https://tracyyuewang.wordpress.com/) and Ruoxi Tian
 
 
