@@ -2,12 +2,27 @@
 layout: default
 ---
 
-## Some lectures notes in python and in machine learning in finance.
+# Discussions 
+*   [Impact Investing and Venture Capital Industry: Experimental Evidence](./discussions/Discussion_Zhang_ESG_and_VC_byKeerYANG.pdf)<br/>
+    by Ye Zhang <br/>
+    2022 Western Finance Association
+    
+*   [Trust and Contracts: Empirical Evidence](./discussions/Discussion_DAcuntoetal_TrustContracts_byKeerYANG.pdf)<br/>
+    by D’Acunto, Xie, and Yao <br/>
+    2022 China Fintech Research Conference
 
-I have been the TA for Machine Learning in Finance class taught by Professor [Murray Z. Frank](https://mzfrank.github.io/myweb/) at UMN. I taught some basic python in finance in the TA session. You can find some teaching material from Professor Frank's [website](https://mzfrank.github.io/myweb/) and from here. 
+*   [Big Data Analyses with No Digital Footprints Available – Evidence from Cyber-Telecom Fraud](./discussions/Discussion_Liuetal_DigitalFootprints_byKeerYANG.pdf)<br/>
+    by Liu, Liu, Ruan, Yang, and Zhang <br/>
+    2021 China International Conference in Finance
 
-[Introduction to Python](./papers/python_intro.ipynb)
-This is the Jupyter file I used to teach students basic python; it includes commonly used commands to clean and describe the data. I also use it as a cheatsheet sometimes. 
+*   [Psychological and Social Motivations in Microfinance Contracts: Theory and Evidence](./discussions/Discussion_Dhamietal_MicrofinanceContracts_byKeerYANG.pdf)<br/>
+    by Dhami, Arshad, and al-Nowaihi<br/>
+    2021 Behavioural Finance Working Group conference
+
+*   [FinTech and the Supply of Credit to Small Business](./discussions/Discussion_MarkJohnson2020_FinTech_byKeerYANG.pdf)<br/>
+    by Mark Johnson<br/>
+    2020 Financial Management Association  
+
 
 
 [back](./)
