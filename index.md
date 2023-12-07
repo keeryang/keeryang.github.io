@@ -11,7 +11,8 @@ I am an Assistant Professor of Finance from Graduate School of Management, Unive
 Primary research interests: FinTech, Machine Learning in Finance, Empirical Corporate Finance, Financial Intermediaries
 
 ### Contact Information
-
+UC Davis Graduate School of Management
+540 Alumni Ln, Davis, CA 95616
 Email: <kkeyang@ucdavis.edu>
 
 ---
