@@ -22,12 +22,12 @@ Email: <kkeyang@ucdavis.edu>
 ## Working Papers
 
 ### [1. Trust as an Entry Barrier: Evidence from FinTech Adoption](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3761468)
-*   Revise and Resubmit, Journal of Financial Economics
+*   **Revise and Resubmit, Journal of Financial Economics**
 *   Presented at CEPR European Conference on Household Finance 2020, China Fintech Research Conference 2021, 4th Annual Dauphine Finance Ph.D. Workshop, BFWG Conference 2021, Cambridge Centre for Alternative Finance Sixth Annual Conference 2021, 2nd PhD Student Symposium at UT Austin, 2021 FMA Annual Meeting, 2022 AFA Poster, Syracuse, OSU, SMU, Santa Clara, CUHK, NYU Shanghai, UC Davis, SAIF, AFR International Conference, Nanjing University, Macquarie Business School
 *   2021 Financial Management Association Best Paper Award Semifinalist 
 
 ### [2. Behavioral Machine Learning? Computer Predictions of Corporate Earnings also Overreact](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4395903) with [Murray Z. Frank](https://mzfrank.github.io/myweb/) and Jing Gao
-*   Coverage: [Financial Times](https://www.ft.com/content/fc193b67-7469-4de8-a129-edfcdf4143e0)
+*   Media Coverage: [Financial Times](https://www.ft.com/content/fc193b67-7469-4de8-a129-edfcdf4143e0)
 *   Presented at JFDS Conference 2023, 2023 Capital Market Research in the Era of AI Conference, 2023 Cardiff Fintech Conference, 2023 FMA, KAIST AI Social Science BootCamp 2023
 
 ### [3. Does Finance Flow to High Productivity Firms?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295140) with [Murray Z. Frank](https://mzfrank.github.io/myweb/)
