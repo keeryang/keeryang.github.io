@@ -48,8 +48,7 @@ Email: <kkeyang@ucdavis.edu>
 
 ### [7. Predicting Firm Profits: From Fama-MacBeth to Gradient Boosting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3919194) with [Murray Z. Frank](https://mzfrank.github.io/myweb/) 
 
-### 8. FinTech and Racial Barriers in Small Business Lending 
-*   Coverage: [FinReg Blog](https://sites.law.duke.edu/thefinregblog/2022/03/16/fintech-and-racial-barriers-in-small-business-lending/)
+### 8. Trust, FinTech, and Racial Barriers in Lending 
 
 
 <br />
