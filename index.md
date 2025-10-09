@@ -30,7 +30,7 @@ Email: <kkeyang@ucdavis.edu>
 
 ### [3. Decoding Sustainable Investment Strategies: Bridging Intentions and Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4637264) with [Ayako Yasuda](http://www.ayakoyasuda.com/) 
 *   Future Conferences: AFA 2026
-*   
+
 ### 4. The George Floyd Event and Corporate Attention to DEI with Jonathan M. Karpoff,  Ruoxi Tian, and [Tracy Wang](https://tracyyuewang.wordpress.com/)
 
 ### [5. Diverging Paths: Productivity and the Financing Choices of Small Versus Large Firms] with [Murray Z. Frank](https://mzfrank.github.io/myweb/)
