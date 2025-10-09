@@ -33,7 +33,7 @@ Email: <kkeyang@ucdavis.edu>
 
 ### 4. The George Floyd Event and Corporate Attention to DEI with Jonathan M. Karpoff,  Ruoxi Tian, and [Tracy Wang](https://tracyyuewang.wordpress.com/)
 
-### [5. Diverging Paths: Productivity and the Financing Choices of Small Versus Large Firms] with [Murray Z. Frank](https://mzfrank.github.io/myweb/)
+### 5. Diverging Paths: Productivity and the Financing Choices of Small Versus Large Firms] with [Murray Z. Frank](https://mzfrank.github.io/myweb/)
 *   Future Conferences: AFA 2026
 
 ### [6. The Ex Ante Effect of Bankruptcy Law: Evidence from Chapter 12](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4236600) with [Jacelly Cespedes](https://sites.google.com/site/jacellycespedes/) and [Richard T. Thakor](https://sites.google.com/site/richardthakor/)
