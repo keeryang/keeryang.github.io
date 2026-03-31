@@ -29,21 +29,20 @@ Email: <kkeyang@ucdavis.edu>
 *   Media Coverage: [Financial Times](https://www.ft.com/content/fc193b67-7469-4de8-a129-edfcdf4143e0)
 
 ### [3. Decoding Sustainable Investment Strategies: Bridging Intentions and Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4637264) with [Ayako Yasuda](http://www.ayakoyasuda.com/) 
-*   Future Conferences: AFA 2026
 
 ### 4. The George Floyd Event and Corporate Attention to DEI with Jonathan M. Karpoff,  Ruoxi Tian, and [Tracy Wang](https://tracyyuewang.wordpress.com/)
 
-### 5. Diverging Paths: Productivity and the Financing Choices of Small Versus Large Firms] with [Murray Z. Frank](https://mzfrank.github.io/myweb/)
-*   Future Conferences: AFA 2026
+### 5. Diverging Paths: Productivity and the Financing Choices of Small Versus Large Firms with [Murray Z. Frank](https://mzfrank.github.io/myweb/)
 
-### [6. The Ex Ante Effect of Bankruptcy Law: Evidence from Chapter 12](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4236600) with [Jacelly Cespedes](https://sites.google.com/site/jacellycespedes/) and [Richard T. Thakor](https://sites.google.com/site/richardthakor/)
+### [6. When Do AI and Emerging Technologies Shape Climate Investment?] with Sean Cao, Junyoung Park, and Ling Xue.
 
-### [7. Does Finance Flow to High Productivity Firms?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295140) with [Murray Z. Frank](https://mzfrank.github.io/myweb/)
+### [7. The Ex Ante Effect of Bankruptcy Law: Evidence from Chapter 12](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4236600) with [Jacelly Cespedes](https://sites.google.com/site/jacellycespedes/) and [Richard T. Thakor](https://sites.google.com/site/richardthakor/)
+
+### [8. Does Finance Flow to High Productivity Firms?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3295140) with [Murray Z. Frank](https://mzfrank.github.io/myweb/)
 
 <br /> 
 
 ## Working in Progress
-### 8. Responsible ClimateTech with Sean Cao, Ling Xue, and Junyoung Park
 
 ### 9. Trust, FinTech, and Racial Barriers in Lending 
 
