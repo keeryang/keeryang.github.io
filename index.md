@@ -34,7 +34,7 @@ Email: <kkeyang@ucdavis.edu>
 
 ### 5. Diverging Paths: Productivity and the Financing Choices of Small Versus Large Firms with [Murray Z. Frank](https://mzfrank.github.io/myweb/)
 
-### [6. When Do AI and Emerging Technologies Shape Climate Investment?] with Sean Cao, Junyoung Park, and Ling Xue.
+### [6. When Do AI and Emerging Technologies Shape Climate Investment?](/papers/ClimateTech_03312026.pdf) with Sean Cao, Junyoung Park, and Ling Xue.
 
 ### [7. The Ex Ante Effect of Bankruptcy Law: Evidence from Chapter 12](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4236600) with [Jacelly Cespedes](https://sites.google.com/site/jacellycespedes/) and [Richard T. Thakor](https://sites.google.com/site/richardthakor/)
 
